@@ -1,0 +1,1 @@
+<view><shop-list vue-id="16c3cb14-1" keyWord="{{keyWord}}" bind:__l="__l"></shop-list></view>

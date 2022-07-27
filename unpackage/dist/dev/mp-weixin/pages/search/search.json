@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#FFF",
+  "usingComponents": {
+    "lines": "/components/common/Lines"
+  }
+}
